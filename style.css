@@ -1,15 +1,33 @@
-p{
+p,.centralizar{
 	text-align: center;
 }
 body{ background-color:#000000;
 		color: #ffffff;
 }
  
-   em strong{
-	color: ;
-}
 
 h1{
 	color:#ff0000;
 }
 
+h1,h2{
+	color: #0000FF;
+}
+#bungas {
+		width: 100%
+}
+.items {
+	font-style: bold;
+	list-style: none;
+}
+
+#bambam{
+	width:50%;
+}
+
+ul{
+	display: inline-block;
+	width: 20%;
+	margin-right: 15%;
+	vertical-align: top;
+}
