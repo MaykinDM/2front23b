@@ -1,33 +1,29 @@
+
+		body{
+	background: #cccccc;
+}
 p,.centralizar{
 	text-align: center;
 }
-body{ background-color:#000000;
-		color: #ffffff;
+em strong{
+	color: #FF0000;
 }
- 
-
-h1{
-	color:#ff0000;
-}
-
 h1,h2{
-	color: #0000FF;
+	color: #0000FF; 
 }
-#bungas {
-		width: 100%
+#banner {
+    width: 100%;
 }
-.items {
-	font-style: bold;
+.items{
+	font-style: italic;
 	list-style: none;
 }
-
-#bambam{
+#beneficios{
 	width:50%;
 }
-
 ul{
 	display: inline-block;
 	width: 20%;
 	margin-right: 15%;
-	vertical-align: top;
+	vertical-align:top;
 }
